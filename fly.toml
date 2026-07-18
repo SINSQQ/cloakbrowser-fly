@@ -30,6 +30,6 @@ primary_region = "ams"
     soft_limit = 80
 
 [[vm]]
-  cpu_kind = "shared"
+  cpu_kind = "performance-2x"
   cpus = 1
-  memory_mb = 256
+  memory_mb = 4096
